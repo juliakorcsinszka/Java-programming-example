@@ -1,7 +1,4 @@
-/* COMP104 assignment1
-	March 2016
-	Author: Julia Korcsinszka 
-	Student ID: 201077367
+/*
 	This program shows how threads 
 	can be implemented and synchronized
 */
